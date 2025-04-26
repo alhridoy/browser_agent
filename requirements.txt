@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+playwright==1.42.0
+python-dotenv==1.0.1
+pydantic==2.6.1
+openai==1.12.0
+langchain==0.1.4
+python-multipart==0.0.9
+pyautogui==0.9.54
+pynput==1.7.6
+pillow==10.2.0
+opencv-python==4.9.0.80
+beautifulsoup4==4.12.2
+lxml==5.1.0
+requests==2.31.0
+selenium==4.18.1
+webdriver-manager==4.0.1
