@@ -1,6 +1,12 @@
 # Browser Automation Agent
 
-An AI agent that automates browser workflows on your machine's native browser using natural language commands. This project is inspired by OpenAI's Operator but works directly with your local browser.
+An AI agent that automates browser workflows on your machine's native browser using natural language commands, inspired by OpenAI's Operator but works directly with your local browser.The Browser Automation Agent is an AI-powered system that enables users to control web browsers through natural language instructions. Inspired by OpenAI's Operator, this project works directly with local browsers to execute complex web tasks automatically.
+
+The system is organized into three progressive levels of capability:
+
+Basic browser control through Playwright
+Advanced OS-level browser integration
+
 
 ## Features
 
